@@ -29,9 +29,6 @@ The **Kanban Task Board** is a project management tool designed for teams to org
 * **Date Handling:** Day.js
 * **UI Framework:** Bootstrap 5
 
-## 📸 Preview
-![Task Board Screenshot](./assets/images/screenshot.png) 
-
 ## 🚦 Deployment
 The application is live and can be accessed here:  
 **[👉 View Live Application](https://piotr-szyk.github.io/kanban-task-board/)**
